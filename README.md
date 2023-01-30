@@ -1,4 +1,4 @@
 # bill_splliter
-link : ankitkr47.github.io
+link : https://ankitkr47.github.io/bill_splliter/
 
 Bill calculator for spliting bill among friends..
